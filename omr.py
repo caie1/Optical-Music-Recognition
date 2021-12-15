@@ -1,12 +1,3 @@
-###################################
-# CS B657 Spring 2021, Assignment #1
-# 
-# Optical Music Recognition
-#
-# Cody Harris
-# Neelan Schueman
-# Emma Cai
-
 import numpy as np
 from PIL import Image, ImageDraw
 import matplotlib.pyplot as plt
