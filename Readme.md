@@ -1,9 +1,5 @@
 # Optical-Music-Recognition
 
-## Team Members
-- Cody Harris 
-- Emma Cai 
-- Neelan Scheumann 
 ## How to Run the Code
 To run the program, one simply needs to run the following command:
 - python3 omr.py \<filepath to image of sheet music>
